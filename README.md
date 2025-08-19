@@ -1,6 +1,6 @@
-# Amharic Scribe
+# HabeshaText Scribe
 
-Amharic Scribe is a modern web application designed to provide seamless Amharic text conversion and user-friendly UI components. Built with cutting-edge technologies, it offers fast performance, instant preview, and a beautiful interface.
+HabeshaText Scribe is a modern web application designed to provide seamless Amharic text conversion and user-friendly UI components. Built with cutting-edge technologies, it offers fast performance, instant preview, and a beautiful interface.
 
 ## Features
 
