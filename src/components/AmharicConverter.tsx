@@ -135,7 +135,7 @@ const AmharicConverter = () => {
             <Languages className="w-8 h-8 text-primary-foreground" />
           </div>
           <h1 className="text-4xl md:text-6xl font-bold bg-gradient-to-r from-primary-glow to-accent-glow bg-clip-text text-transparent">
-            Amharic Scribe
+            HabeshaText Scribe
           </h1>
           <div className="p-3 rounded-2xl bg-gradient-to-r from-accent to-accent-glow glow-accent">
             <Sparkles className="w-8 h-8 text-accent-foreground" />
