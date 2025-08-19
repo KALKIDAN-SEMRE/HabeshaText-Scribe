@@ -2,6 +2,10 @@
 
 HabeshaText Scribe is a modern web application designed to provide seamless Amharic text conversion and user-friendly UI components. Built with cutting-edge technologies, it offers fast performance, instant preview, and a beautiful interface.
 
+## Motivation
+
+Amharic is one of the most widely spoken languages in Ethiopia, but typing in Amharic can be challenging for many users. This project aims to simplify Amharic text input and translation, making communication easier and more accessible.
+
 ## Features
 
 - Transcribes Amharic written in English alphabets to Amharic alphabet words
@@ -31,6 +35,12 @@ npm run dev
 
 The app will be available at for instance: `http://localhost:5173` (or the port shown in your terminal).
 
+## Usage Example
+
+1. Type Amharic words using English alphabets in the input box.
+2. View the instant transcription in Amharic script.
+3. Press the "Translate to English" button to get the English translation.
+
 ## Technology Stack
 
 - **Vite** – Fast build tool for modern web apps
@@ -51,6 +61,13 @@ The app will be available at for instance: `http://localhost:5173` (or the port 
 ## Contributing
 
 Contributions are welcome! Please open issues or submit pull requests for improvements and bug fixes.
+
+## Future Plans
+
+- Add support for more Ethiopian languages
+- Improve translation accuracy
+- Add user authentication and profiles
+- Mobile app version
 
 ## License
 
